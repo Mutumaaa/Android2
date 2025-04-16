@@ -21,7 +21,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.navigation.NavController
 import androidx.navigation.compose.rememberNavController
-import com.navigation.ROUT_START
+import com.starglen.zawadimart.navigation.ROUT_START
 import com.starglen.zawadimart.R
 
 @Composable

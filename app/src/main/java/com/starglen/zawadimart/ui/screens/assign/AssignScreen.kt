@@ -45,8 +45,8 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.navigation.NavController
 import androidx.navigation.compose.rememberNavController
-import com.navigation.ROUT_HOME
-import com.navigation.ROUT_ITEM
+import com.starglen.zawadimart.navigation.ROUT_HOME
+import com.starglen.zawadimart.navigation.ROUT_ITEM
 import com.starglen.zawadimart.R
 import com.starglen.zawadimart.ui.theme.black
 import com.starglen.zawadimart.ui.theme.newblue
